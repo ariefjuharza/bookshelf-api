@@ -74,7 +74,7 @@ const init = async () => {
       if (isSuccess) {
         const response = h.response({
           status: 'success',
-          message: 'Buku Berhasil ditambahkan',
+          message: 'Buku berhasil ditambahkan', // Karena nila setitik rusak susu sebelanga, karena huruf sebiji rusak kodingan semuanya..🤣 Maaf brother🙏
           data: {
             bookId: id,
           },
